@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Towhidul Islam</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<img align= "right" alt= "coding" width= "400" src="https://images.squarespace-cdn.com/content/v1/50fc177be4b0dcfb3cb3e0b7/1590834601514-9SMIYY5GOVE2K8JVR4W1/coder-01.jpg?format=1000w
+https://pbs.twimg.com/profile_banners/1675848237071347712/1688388411/1080x360
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammad-towhidul-islam" alt="mohammad-towhidul-islam" /></a> </p>
